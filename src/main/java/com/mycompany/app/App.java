@@ -6,9 +6,9 @@ package com.mycompany.app;
 public class App
 {
     private final String message = "Hello World!";
-    String name = "AAAA"
-    String age = "33"
-     String address = "AAAAAAA"
+    String name = "AAAA";
+    String age = "33";
+     String address = "AAAAAAA";
 
     public App() {}
 
